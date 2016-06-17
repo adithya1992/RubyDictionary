@@ -1,8 +1,6 @@
 # RubyDictionary
 
-Instructions
-
-Code
+# Description
 
 Given a list of words (words.txt), The program generates two output files, 'questions' and 'answers'. 'questions' will contain every sequence of four letters that appears in exactly one word of the dictionary, one sequence per line. 'answers' will contain the corresponding words that contain the sequences, in the same order, again one per line.
 
